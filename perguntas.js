@@ -1,5 +1,5 @@
 criaCartao(
-    'Programação',
+    'Historia',
     'O que é o metodo cientifico ?',
     'O método científico é um processo sistemático utilizado para investigar fenômenos, adquirir novos conhecimentos, corrigir ou integrar conhecimentos pré-existentes'
 )
