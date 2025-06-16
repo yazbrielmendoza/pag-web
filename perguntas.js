@@ -1,19 +1,19 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é o metodo cientifico ?',
+    'O método científico é um processo sistemático utilizado para investigar fenômenos, adquirir novos conhecimentos, corrigir ou integrar conhecimentos pré-existentes'
+)
+
+criaCartao(
+    'Biologia',
+    'o que são as mitocôndrias?',
+    'As mitocôndrias são organelas celulares responsáveis pela produção de energia nas células eucarióticas'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    ' Qual é a capital do Canada?',
+    'A capital do Canada é Toronto'
 )
 
 criaCartao(
